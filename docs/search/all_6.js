@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['max_5fblength_5ffactor_0',['max_blength_factor',['../classcmaple_1_1_params.html#ab1dd36bba7aaeb3fe8416bb49db0f56b',1,'cmaple::Params']]],
-  ['min_5fblength_5ffactor_1',['min_blength_factor',['../classcmaple_1_1_params.html#a7cdbc01ec9d3bb923a4b7038ba5d34ac',1,'cmaple::Params']]],
-  ['model_2',['Model',['../classcmaple_1_1_model.html',1,'cmaple::Model'],['../classcmaple_1_1_model.html#a1a893bd878402e2b005901ecbf4af552',1,'cmaple::Model::Model()']]],
-  ['mutation_5fupdate_5fperiod_3',['mutation_update_period',['../classcmaple_1_1_params.html#a026887ca6fbb3677729330f972d6a0a9',1,'cmaple::Params']]]
+  ['getparams_0',['getParams',['../classcmaple_1_1_model.html#a9050e8b392d2502af1e8fc8b50e44b96',1,'cmaple::Model']]],
+  ['gtr_1',['GTR',['../classcmaple_1_1_model_base.html#aad9cb5622678fdf128b3ea016b475ee1ad22bc80e9ed276aafacf7f4fc569b94f',1,'cmaple::ModelBase']]],
+  ['gtr20_2',['GTR20',['../classcmaple_1_1_model_base.html#aad9cb5622678fdf128b3ea016b475ee1ac41a4bf5bac096106628d404526a4169',1,'cmaple::ModelBase']]]
 ];

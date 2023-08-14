@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['write_0',['write',['../classcmaple_1_1_alignment.html#a0564cc07f4576b5d9332442bb9fd350b',1,'cmaple::Alignment::write(std::ostream &amp;aln_stream, const std::string &amp;format=&quot;MAPLE&quot;)'],['../classcmaple_1_1_alignment.html#aa6fde65b30e8f14cc0c1d456701a37c2',1,'cmaple::Alignment::write(const std::string &amp;aln_filename, const std::string &amp;format=&quot;MAPLE&quot;, const bool overwrite=false)']]]
+  ['load_0',['load',['../classcmaple_1_1_tree.html#af8c288e5a4ae4277615cb24268dca2f2',1,'cmaple::Tree::load(std::istream &amp;tree_stream, const bool fixed_blengths=false)'],['../classcmaple_1_1_tree.html#a1b2479eb26d00469ee1040dd9bee18e5',1,'cmaple::Tree::load(const std::string &amp;tree_filename, const bool fixed_blengths=false)']]]
 ];

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['fixed_5fmin_5fblength_0',['fixed_min_blength',['../classcmaple_1_1_params.html#a26f833dbe75c3832f518eb0dbdf16780',1,'cmaple::Params']]]
+  ['model_5fname_0',['model_name',['../structcmaple_1_1_model_1_1_model_params.html#a04692b1d59c1f6582e73b78a007c1933',1,'cmaple::Model::ModelParams']]],
+  ['mut_5frates_1',['mut_rates',['../structcmaple_1_1_model_1_1_model_params.html#a19a0dee5539fa88dfaea1b8592f65f69',1,'cmaple::Model::ModelParams']]]
 ];
