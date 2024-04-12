@@ -1,7 +1,7 @@
 var searchData=
 [
   ['wag_0',['WAG',['../classcmaple_1_1_model_base.html#aad9cb5622678fdf128b3ea016b475ee1ac427674f16f746ed6115a31da295bb78',1,'cmaple::ModelBase']]],
-  ['what_27s_20cmaple_20library_3f_1',['What&apos;s CMaple library?',['../index.html',1,'']]],
+  ['what_27s_20cmaple_20library_3f_1',['What&apos;s CMAPLE library?',['../index.html',1,'']]],
   ['withfixedminblength_2',['withFixedMinBlength',['../classcmaple_1_1_params_builder.html#a3a2fdecd7fb1cc6485027fa6956df593',1,'cmaple::ParamsBuilder']]],
   ['withmaxblengthfactor_3',['withMaxBlengthFactor',['../classcmaple_1_1_params_builder.html#a98844c0ecd08eb7218c251d189cd5cc3',1,'cmaple::ParamsBuilder']]],
   ['withminblengthfactor_4',['withMinBlengthFactor',['../classcmaple_1_1_params_builder.html#a87811eccd1f69b70696d6c2fb15a7e29',1,'cmaple::ParamsBuilder']]],

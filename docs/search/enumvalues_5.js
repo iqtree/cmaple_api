@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['hivb_0',['HIVB',['../classcmaple_1_1_model_base.html#aad9cb5622678fdf128b3ea016b475ee1a6fbd8887bb54f10aeb9b5c0c2d109449',1,'cmaple::ModelBase']]],
-  ['hivw_1',['HIVW',['../classcmaple_1_1_model_base.html#aad9cb5622678fdf128b3ea016b475ee1a233161dd89ccd609b6e653111aec8dd2',1,'cmaple::ModelBase']]]
+  ['gtr_0',['GTR',['../classcmaple_1_1_model_base.html#aad9cb5622678fdf128b3ea016b475ee1ad22bc80e9ed276aafacf7f4fc569b94f',1,'cmaple::ModelBase']]],
+  ['gtr20_1',['GTR20',['../classcmaple_1_1_model_base.html#aad9cb5622678fdf128b3ea016b475ee1ac41a4bf5bac096106628d404526a4169',1,'cmaple::ModelBase']]]
 ];
